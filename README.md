@@ -23,6 +23,8 @@
 
 ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-%23FF2D20.svg?style=for-the-badge&logo=visualparadigm&logoColor=white)  ![Mermaid UML](https://img.shields.io/badge/Mermaid%20UML-%230099CC.svg?style=for-the-badge&logo=mermaid&logoColor=white) 
 
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-%230075C0.svg?style=for-the-badge&logo=cisco&logoColor=white)  
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7F00.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![SageMath](https://img.shields.io/badge/SageMath-%2300628A.svg?style=for-the-badge&logo=sagemath&logoColor=white)  
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
