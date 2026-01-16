@@ -1,11 +1,12 @@
 # Hi there! 👋 I'm Mălina
 
 - 🌱 I’m currently studying **Computer Science** at Babeș-Bolyai University in Cluj-Napoca, Romania  
-- 💡 I’m passionate about **Networks, Operating Systems, AI, and Software Development**  
-- 🔥 I’m currently working on **an AI-powered Firewall**  
-- 🎯 My goal is to become **a Cybersecurity Expert specializing in AI-powered network security**
+- 💡 I’m passionate about **Machine Learning, Data Science, Networks, Operating Systems and Software Development**  
+- 🔥 I’m currently working on **an AI-powered Firewall** for my batchelor thesis
+- 🎯 My goal is to become a **Data Scientinst**
 - 📖 I'm fluent in **English, German, and Romanian**, learning **French and Hungarian**  
-- 👥 I love teamwork! Former **Gutenberg Jugendverein** president with experience in **Project Management, PR, and HR**  
+- 👥 I love teamwork! Former **Gutenberg Jugendverein** president with experience in **Project Management, PR, and HR**
+- 🅱️ I #Work**ed**LikeABosch for over half a year
 - 🌿 **Scout & nature lover**  
 
 ## 🚀 **Let's Connect!**  
