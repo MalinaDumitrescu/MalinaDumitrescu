@@ -6,7 +6,7 @@
 - 🎯 My goal is to become a **Data Scientinst**
 - 📖 I'm fluent in **English, German, and Romanian**, learning **French and Hungarian**  
 - 👥 I love teamwork! Former **Gutenberg Jugendverein** president with experience in **Project Management, PR, and HR**
-- 🅱️ I #Work**ed**LikeABosch for over half a year
+- 🅱️ *#Work**ed**LikeABosch* for **over half a year**
 - 🌿 **Scout & nature lover**  
 
 ## 🚀 **Let's Connect!**  
